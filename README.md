@@ -18,7 +18,7 @@ Phenomenal State Assessor evaluates your inner state through 5 scientifically-gr
 ## 🚀 Quick Start
 
 ### For Users:
-1. **Download** the latest release: [Download Now](https://github.com/lolkeey73-code/---/releases/latest)
+1. **Download** the latest release: [Download Now](https://github.com/lolkeey73-code/PhenomenalStateAssessor/releases/latest)
 2. **Run** `PhenomenalStateAssessor.exe` (Windows)
 3. **Complete** the 10-minute assessment
 4. **Receive** your personalized improvement plan
