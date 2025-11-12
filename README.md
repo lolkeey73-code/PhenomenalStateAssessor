@@ -1,7 +1,7 @@
 # Phenomenal State Assessor
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://img.shields.io/badge/DOI-10.6084/m9.figshare.30590597.v1-blue)](https://doi.org/10.6084/m9.figshare.30590597.v1)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17582585.svg)](https://doi.org/10.5281/zenodo.17582585)
 
 A free 10-minute diagnostic tool that quantifies your conscious experience using the Ontological Theory of Self-Referential Differences.
 
